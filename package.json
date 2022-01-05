@@ -1,0 +1,19 @@
+{
+  "name": "reto4",
+  "version": "1.0.0",
+  "description": "Ejercicios sobre Arrays en JavaScript",
+  "main": "retos.js",
+  "scripts": {
+    "test": "jest --collectCoverage=false"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "jest": "^27.2.0"
+  },
+  "author": "Fares",
+  "license": "ISC",
+  "jest": {
+    "testURL": "http://localhost/"
+  },
+  "dependencies": {}
+}

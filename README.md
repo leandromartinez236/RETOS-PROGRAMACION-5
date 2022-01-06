@@ -3,7 +3,7 @@
 ## Instalaciones Previas:
 
 - Instalar NodeJS: ir al sitio nodejs.org y descargar la versión necesaria.
-- Instalar Yarn: abrir una consola y escribir: `npm i --global yarn`
+- Instalar Yarn: abrir una consola y escribir: npm i --global yarn
 - Verificar la instalación de node: `node --version`
 - Verificar la instalación de npm: `npm --version`
 - Verificar la instalación de yarn: `yarn --version`
